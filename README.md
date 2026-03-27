@@ -103,7 +103,7 @@ ros2 run turtlesim turtlesim_node
 ### Step 4: Run your script
 
 ```bash
-python3 turtle_shape_drawer.py
+python3 turtle_shape.py
 ```
 
 ---
@@ -215,8 +215,4 @@ This project is built for learning ROS2 concepts like:
 
 ---
 
-## 📷 Demo (Optional)
 
-(Add screenshots or GIF here later for better presentation)
-
----
