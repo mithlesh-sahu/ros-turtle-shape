@@ -45,8 +45,8 @@ The turtle is programmatically moved, teleported to specific positions, and comm
 ## 📦 Project Structure
 
 ```
-turtle_shape_drawer.py   # Main Python script
-README.md                # Project documentation
+turtle_shape.py   
+README.md                
 ```
 
 ---
